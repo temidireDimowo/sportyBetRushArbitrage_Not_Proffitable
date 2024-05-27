@@ -2,7 +2,7 @@
 
 
 
-## Future works
+## Code Contribution
 - Want to contribute to this scrip or know about any profitable betting strategies reach out to me
 
 ## Future works
