@@ -3,7 +3,7 @@
 
 
 ## Code Contribution
-- Want to contribute to this scrip or know about any profitable betting strategies reach out to me
+- Want to contribute to this script or know about any profitable betting strategies reach out to me on x.com
 
 ## Future works
 - Create an excel file to log bet entries and take screenshots
