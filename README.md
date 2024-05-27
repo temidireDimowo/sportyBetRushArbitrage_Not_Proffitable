@@ -1,5 +1,12 @@
 # sportyBetRushArbitrage
-The aim of this project is to earn a profit trading on sportyBet Rush virtual game
+The aim of this project is to earn a profit trading on sportyBet Rush virtual game. 
+Login > Place bet using autobet feature > Stop auto bet when take profit and take loss is reached > Rinse and repeat
+
+
+
+```diff
+- Disclaimer: Bet responsibly. Gambling involves risk, and there's no guarantee of winning. Set limits, and only wager what you can afford to lose.
+```
 
 ## Official Game Description
 Rush is a tren-ball crash game. The game involves a car moving continuously in a city landscape before leaving. The game play is simple as follows:
