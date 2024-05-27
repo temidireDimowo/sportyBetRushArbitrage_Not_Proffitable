@@ -1,5 +1,5 @@
 # sportyBetRushArbitrage
-The aim of this project is to earn a profit trading on sportyBet Rush Arbitrage
+The aim of this project is to earn a profit trading on sportyBet Rush virtual game
 
 ## Official Game Description
 Rush is a tren-ball crash game. The game involves a car moving continuously in a city landscape before leaving. The game play is simple as follows:
