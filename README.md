@@ -1,4 +1,4 @@
-# sportBetRushArbitrage
+# sportyBetRushArbitrage
 The aim of this project is to earn a profit trading on sportyBet Rush Arbitrage
 
 ## Official Game Description
