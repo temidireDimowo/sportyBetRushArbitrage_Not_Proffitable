@@ -29,10 +29,10 @@ print("Current directory is-", os.getcwd())
 
 # Smart waits implemented
 def wait_and_find_element(by, value):
-    return WebDriverWait(driver, 10).until(EC.presence_of_element_located((by, value)))
+    return WebDriverWait(driver, 20).until(EC.presence_of_element_located((by, value)))
 
 def wait_and_find_elements(by, value):
-    return WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((by, value)))
+    return WebDriverWait(driver, 20).until(EC.presence_of_all_elements_located((by, value)))
 
 
 options = Options()
