@@ -1,0 +1,472 @@
+In a bid to see if my take profit at 200 and take loss at 200 naira startegy worked. 
+
+With a starting balance of ₦4,800 naira I looped through the placebet function 100 times. However there were only 88 sucessful iterations before the script stopped due to a low balance. 
+
+
+Iteration 1
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 2
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 3
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 4
+Exception
+Exception
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 5
+Exception
+Exception
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 6
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 7
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 8
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 9
+Exception
+Exception
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 10
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 11
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 12
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 13
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 14
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 15
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 16
+Exception
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 17
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 18
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 19
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 20
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 21
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 22
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 23
+Exception
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 24
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 25
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 26
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 27
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 28
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 29
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 30
+Exception
+Exception
+Exception
+Exception
+Exception
+Exception
+Exception
+Exception
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 31
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 32
+Exception
+Exception
+Exception
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 33
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 34
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 35
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 36
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 37
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 38
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 39
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 40
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 41
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 42
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 43
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 44
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 45
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 46
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 47
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 48
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 49
+Exception
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 50
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 51
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 52
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 53
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 54
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 55
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 56
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 57
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 58
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 59
+Exception
+Exception
+Exception
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 60
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 61
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 62
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 63
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 64
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 65
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 66
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 67
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 68
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 69
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 70
+Exception
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 71
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 72
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 73
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 74
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 75
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 76
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 77
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 78
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 79
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 80
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 81
+Exception
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 82
+Exception
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 83
+Exception
+Bet profittable starting again at your command.....
+ 
+ Profit Status: 200
+Iteration 84
+Exception
+Exception
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 85
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 86
+NO PROFIT starting again at your command.....
+ 
+ Profit Status: -200
+Iteration 87
+ 
+ Profit Status: -50
+Iteration 88
