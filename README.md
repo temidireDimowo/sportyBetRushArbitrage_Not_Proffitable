@@ -15,7 +15,7 @@ Rush is a tren-ball crash game. The game involves a car moving continuously in a
 - Player can place their bet manually by clicking on the “Place Bet” button or click on “Auto” button to enable automatic bets. The Target Coefficient and the Bet Amount set when the Auto Bet is turned on will be considered for all Auto Bets until the player stops the Auto Bet.
 
 ## What I have noticed while trading
-- There are cases where the multiplier ends on 1.00X contrary to the official description that ["The winning House Coefficient starts at 1.01x and keeps on increasing as the car speeds up and moves ahead."]
+- There are cases where the multiplier ends on 1.00X contrary to the official description that ["The winning House Coefficient starts at 1.01x and keeps on increasing as the car speeds up and moves ahead."] - How are we sure that's the only thing they lied about (Multipliers, Odds, Winning percentages)? 
 
 ## Code Contribution
 - Want to contribute to this script or know about any profitable betting strategies create a pull request or reach out to me on x.com
